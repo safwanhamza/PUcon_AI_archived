@@ -1,4 +1,4 @@
 ## PUcon24_AI Competition
 The problem statement of contest was Housing Pricing.
 
-- Data, my submission, solution is available in this folder.
+- Data & solution is available on kaggle, my submission is available in this folder.
