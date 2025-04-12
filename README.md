@@ -3,4 +3,4 @@ The repository contains the participation content of AI competitions relocated a
 - PUcon'23
 - PUcon'24
 
-[Competition Details](https://pucon.vercel.app/)
+Visit competition website [here.](https://pucon.vercel.app/)
